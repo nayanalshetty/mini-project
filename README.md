@@ -12,6 +12,6 @@ It performs operations like addition, subtraction, multiplication, division, sin
 -Scientific Functions
 -Error handing
 
-##uthor
+##Author
 Nayana D L
 Engineering student
